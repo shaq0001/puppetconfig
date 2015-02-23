@@ -1,5 +1,5 @@
 # Example puppetmaster.conf configuration file for Pluralsight's Puppet Fundamentals for System Administrators course
-
+# update cert files 
 
 LoadModule passenger_module /usr/lib/ruby/gems/1.8/gems/passenger-4.0.56/buildout/apache2/mod_passenger.so
 PassengerRoot /usr/lib/ruby/gems/1.8/gems/passenger-4.0.56
